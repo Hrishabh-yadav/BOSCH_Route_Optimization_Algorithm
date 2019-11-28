@@ -11,3 +11,6 @@
 
 
 ### Add your Resource here...
+
+
+Quick Ref for using Markdown: [here](https://en.support.wordpress.com/markdown-quick-reference/ "Title")
