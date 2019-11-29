@@ -5,13 +5,13 @@ import os
 from opencage.geocoder import OpenCageGeocode
 
 # generate your API KEY using GMail
-key = '978fa324222646eaa6277f35b10be322'
+key = 'Your API key as a string'
 
 # create object
 geocoder = OpenCageGeocode(key)
 
 # load cities, appended with country name
-appendingString = ', India'
+appendingString = ' Bus Stand, India'
 
 # get the bus stops here
 path = os.getcwd() + '/busStops_1.txt'
