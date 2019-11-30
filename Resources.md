@@ -12,7 +12,14 @@
 * [OpenSource, but how to use ?](http://project-osrm.org/  "Title")
 
 ### Getting Coordinates
+#### Scripts
 * [BlogPost](https://amaral.northwestern.edu/blog/getting-long-lat-list-cities "Title")
+#### Data
+* [Data1](https://gist.github.com/lxbarth/8f101973e1d6c6f8efda) - Name and Coordinates
+* [Data2](https://github.com/mikelmaron/Cartonama/blob/master/data/busstops-bangalore.xml) - Name, coordinates, sample input data
+* [Data3](https://github.com/geohacker/bmtc/blob/master/data/bmtc_dump.csv) - Source, Destination, Route, Coordinates
+
+
 
 
 ### Add your Resource here...
