@@ -21,6 +21,10 @@
 
 ### Existing repos on Vehicle routing
 * [Optaweb](https://github.com/kiegroup/optaweb-vehicle-routing)
+* [VROOM-project](https://github.com/VROOM-Project/vroom)
+
+### Algos found
+* [GOGOVAN Medium link](https://medium.com/gogovan-technology/improving-operations-with-route-optimization-e032d8bf5edc)
 
 
 ### Add your Resource here...
