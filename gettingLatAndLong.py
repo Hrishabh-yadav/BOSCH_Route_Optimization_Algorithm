@@ -5,7 +5,7 @@ import os
 from opencage.geocoder import OpenCageGeocode
 
 # generate your API KEY using GMail
-key = 'Your API key as a string'
+key = '9db0fc266acb4acc82a47dc71379fbe1'
 
 # create object
 geocoder = OpenCageGeocode(key)
