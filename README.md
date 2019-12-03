@@ -32,10 +32,7 @@ We understood the following from the given sample data and solution:
    - We use the Open Source Routing Machine's (OSRM) [table service](https://github.com/Project-OSRM/osrm-backend/blob/master/docs/http.md#table-service) to fill the distance_matrix that contains the above information.
 * Task 4:
    - Once we know all-source-all-destination shortest paths, we take the given input points and then use the constraint vehicle routing      methods with slight modifications, to get the minimum number of buses needed to cover all the places and reach the Bosch office. 
-   - There are various methods to solve the VRP. The algorithms about which we have researched have been mentioned in the [resources.md](https://github.com/Hrishabh-yadav/BOSCH_Route_Optimization_Algorithm/blob/master/Resources.md)        file.
-          
-          
-          
+   - There are various methods to solve the VRP. The algorithms about which we have researched have been mentioned in the [resources.md](https://github.com/Hrishabh-yadav/BOSCH_Route_Optimization_Algorithm/blob/master/Resources.md)        file.         
    - We will try out all the approaches and determine the best one for our case.
-* Task 4:
+* Task 5:
    - After getting the optimized number of buses and also their routes, we visualize it using Python's Network Graph library -NetworkX.
