@@ -27,3 +27,4 @@
 
 
 Quick Ref for using Markdown: [here](https://en.support.wordpress.com/markdown-quick-reference/ "Title")
+Quick Ref for setting-up VM on GCP: [here](https://www.youtube.com/watch?v=2d5LzJNj46w "Yoututbe Video")
