@@ -29,8 +29,9 @@
 * [GOGOVAN Medium link](https://medium.com/gogovan-technology/improving-operations-with-route-optimization-e032d8bf5edc)
 
 
-### Add your Resource here...
+### Others...
 
 
 * Quick Ref for using Markdown: [here](https://en.support.wordpress.com/markdown-quick-reference/ "Title")
 * Quick Ref for setting-up VM on GCP: [here](https://www.youtube.com/watch?v=2d5LzJNj46w "Yoututbe Video")
+* BeautyView the JSON data: [here](https://codebeautify.org/jsonviewer)
