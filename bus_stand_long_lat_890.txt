@@ -1,0 +1,445 @@
+Karthiknagar 12.9703  77.7006
+Karubele 12.8751  77.4663
+Kasavanahalli 12.9067  77.6757
+Kashinagar 18.8578  83.8808
+Kasturinagar 13.0061  77.6594
+Katriguppe 12.9294  77.5569
+Katriguppe+Water+Tank 12.9304  77.5468
+Kattalepalya bus+stand 12.7975  77.4646
+Kattanallur 13.0529  77.7628
+Kattigenahalli 13.1216  77.6207
+Kattigenahalli+Cross 13.1219  77.6256
+Kattu+Gollahalli 13.1024  77.7209
+Kattu+Gollahalli+Gate 13.0944  77.7429
+Kaudenahalli 13.0199  77.6772
+Kaval+Byrasandra 13.0237  77.6080
+Kaverinagar+(Banashankari) 12.9278  77.5602
+Kaverinagar+(Basaveshwaranagar) bus+stand 12.9947  77.5268
+Kebbepalya 13.2603  76.6757
+Kembathhalli 12.8569  77.5770
+Kembathhalli+Cross bus+stand 12.8552  77.5804
+Kempadyapanahalli 12.8662  77.3543
+Kempalinganapura bus+stand 13.2305  77.6646
+Kempapura+(Marathahalli) 12.9441  77.6722
+Kempapura+Agrahara 12.9701  77.5526
+Kempayyanapalya+(Bidadi) bus+stand 12.7329  77.4400
+Kempayyanapalya+(Kanakapura+Road) 12.7329  77.4400
+Kempegowda+Bus+Station/Majestic 12.9778  77.5728
+Kempegowda+Layout 12.9159  77.4542
+Kempegowdanagar 12.9473  77.5634
+Kempegowdanagar+Swimming+Pool 12.9489  77.5593
+Kenchanahalli 13.1102  77.3411
+Kenchanakuppe 12.7951  77.3760
+Kenchanapalya 13.4508  77.1643
+Kenchanapura bus+stand 12.9571  77.4497
+Kendriya+Vihar 28.4230  77.0946
+Kenganahalli 13.0471  77.4085
+Kenganahalli+Cross bus+stand 13.0405  77.4269
+Kengeri 12.8997  77.4827
+Kengeri+Police+Station 12.9106  77.4826
+Kengeri+Post+Office 12.9153  77.4816
+Kengeri+Railway+Station 12.9177  77.4838
+Kengeri+Satellite+Town 12.9231  77.4847
+Kethohalli 12.9058  77.4056
+KHB+Colony 12.9856  77.5337
+Kirloskar+Layout 13.0661  77.5007
+Kittaganahalli 12.8029  77.6966
+Kittaganur 13.0319  77.7062
+Kittanahalli 13.0092  77.4217
+Kodagalahatti 13.1431  77.6291
+Kodalipura 12.7407  77.7595
+Kodandaramanagar 12.9708  80.2440
+Kodathi 12.8882  77.7160
+Kodathi+Gate 12.8963  77.7202
+Kodichikkanahalli 12.8953  77.6150
+Kodichikkanahalli+Cross 12.8978  77.6215
+Kodigehalli 13.0697  77.5788
+Kodigehalli+(K+R+Puram) 13.0024  77.7264
+Kodigehalli+Gate+(Bellary+Road) 13.0575  77.5928
+Kodigehalli+Railway+Station+(Bellary+Road) 13.0631  77.5759
+Kodihalli+(Old+Airport+Road) 12.9601  77.6472
+Kodipalya 12.8985  77.4907
+Kodiyala 12.4558  76.8361
+Kodiyala+Karenahalli 12.7848  77.4656
+Kogilu 13.1013  77.6126
+Kogilu+Cross 13.1037  77.6008
+Kolathur 13.1240  80.2121
+Kolathur+Gate 13.0733  77.8302
+Koli+Farm+Gate+(Bannerghatta+Road) 12.8414  77.5887
+Koluvarayanahalli 13.1651  77.5225
+Kommaghatta 12.9194  77.4686
+Kommaghatta+Cross bus+stand 12.9304  77.5437
+Konanakunte 12.8822  77.5660
+Konanakunte+Bank+Colony 12.8833  77.5684
+Konanakunte+Cross bus+stand 12.8905  77.5640
+Konappana+Agrahara 12.8549  77.6679
+Konasandra+(Jigani) 12.7587  77.6321
+Konasandra+Cross+(Jigani) bus+stand 12.7657  77.6339
+Kondashettyhalli bus+stand 13.1266  77.5142
+Konena+Agrahara 12.9577  77.6608
+Koogur 12.9110  77.8096
+Kootaganahalli 15.3689  76.2320
+Koppa 13.5327  75.3558
+Koppa+Gate 12.7945  77.6149
+Koralur 12.9881  77.7821
+Koramangala 12.9352  77.6244
+Koramangala+8th+Block 12.9415  77.6178
+Koramangala+BDA+Complex 12.9309  77.6228
+Koramangala+Canara+Bank 12.9351  77.6241
+Koramangala+Housing+Complex 12.9455  77.6229
+Koramangala+Kalyana+Mantapa 12.9372  77.6169
+Koramangala+Kendriya+Sadan 12.9255  77.6209
+Koramangala+Police+Station 12.9412  77.6213
+Koramangala+TTMC 12.9412  77.6253
+Koramangala+Water+Tank 12.9276  77.6208
+Koshy's+Hospital 13.0207  77.6761
+Kothanur+(J+P+Nagar+7th+Phase) 12.8873  77.5781
+Kothur 17.1474  78.2889
+Kottigepalya 12.9857  77.5117
+Krishna+Garden+Layout 12.9142  77.5053
+Krishnanandanagar+(Mahalakshmi+Layout) 13.0191  77.5426
+Krishnappa+Layout 13.0383  77.5717
+Krishnayyanapalya 12.9966  77.6560
+Kristu+Jyoti+College 9.4619  76.5478
+KRS+Gowda+Layout 13.0344  77.4992
+Krupanidhi+College+(Gunjur) 12.9239  77.6291
+Kudlu 12.8910  77.6400
+Kudlu+Gate 12.8910  77.6400
+Kuduregere+(Bellary+Road) bus+stand 13.1922  77.6002
+Kudusiddanapalya bus+stand 12.9328  77.3718
+Kukkanahalli 13.1546  77.4386
+Kullappa+Circle 13.0141  77.6394
+Kulumepalya 12.9509  77.0827
+Kumaraswamy+Layout 12.9044  77.5649
+Kumaraswamy+Layout+2nd+Stage 12.9054  77.5562
+Kumaraswamy+Layout+Polic+Station 12.9052  77.5629
+Kumaraswamy+Layout+Police+Station 12.9052  77.5629
+Kumaraswamy+Layout+Water+Tank 12.9101  77.5620
+Kumaraswamy+Layout+West 12.9033  77.5547
+Kumaraswamy+Temple 15.1538  76.9134
+Kumbalahalli 13.0919  77.7936
+Kumbalahalli+Gate 13.0885  77.7808
+Kumbalgodu 12.8794  77.4451
+Kumbarahalli 12.0386  76.7207
+Kumbarahalli+Cross bus+stand 13.1066  77.4901
+Kumbaranahalli 12.7491  77.6611
+Kumbena+Agrahara 13.0013  77.7466
+Kundalahalli 12.9690  77.7209
+Kundalahalli+Colony 12.9685  77.7094
+Kundalahalli+Gate 12.9559  77.7138
+Kundana 13.2578  77.6296
+Kuppareddykere bus+stand 12.8425  77.5177
+Kurubarapalya 12.9114  77.3627
+Kurudu+Sonnenahalli 13.0141  77.7323
+Kuvempu+Circle 13.0432  77.5613
+Kuvempunagar+(BTM+Layout) 12.9142  77.6147
+Kuvempunagar+South+(BTM+Layout) 12.9142  77.6147
+Kyasaraguppe bus+stand 12.8166  77.5670
+Laggere 13.0098  77.5254
+Lakeside+Hospital 12.9879  77.6177
+Lakkasandra 12.9435  77.6006
+Lakkenahalli 13.0435  77.3975
+Lakkur 12.9288  77.8867
+Lakshman+Rao+Nagar 12.9499  77.6164
+Lakshmi+Layout 12.8901  77.5913
+Lakshminarayanapura 12.9578  77.7130
+Lakshmipura+(Kanakapura+Road) bus+stand 12.8334  77.5137
+Lakshmipura+(M+S+Palya) 13.0862  77.5288
+Lakshmisagara 14.2797  76.2851
+Lal+Bahadur+Shastri+Nagar 12.8570  77.5622
+Lalagondanahalli 13.2741  77.7094
+Lalbagh+Main+Gate 12.9541  77.5857
+Lalbagh+West+Gate 12.9475  77.5802
+Langford+Town 12.9570  77.6028
+Lavanya+Talkies bus+stand 12.9860  77.6155
+Legislators+Home 12.9828  77.5896
+Linganahalli 13.1567  77.5225
+Lingapura 14.1098  75.7335
+Lingarajapura 13.0130  77.6262
+Lingarajapura+KHB+Colony 13.0112  77.6318
+Lottegollahalli 13.0457  77.5670
+Lottegollahalli+Railway+Colony 13.0436  77.5631
+Loyola+Industrial+Training+Centre 12.8695  77.5925
+M+G+Road+Metro+Station 28.4796  77.0800
+M+Karenahalli bus+stand 12.8181  77.3657
+M+M+Industries 21.2059  81.6860
+M+R+College+of+Nursing 13.0584  77.6494
+M+S+Palya 13.0813  77.5483
+M+S+Ramaiah+College 13.0305  77.5649
+M+S+Ramaiah+Hospital 13.0283  77.5703
+Machohalli 13.0069  77.4533
+Machohalli+ 13.0069  77.4533
+Machonayakanahalli bus+stand 13.1450  77.3802
+Madanayakanahalli 13.0610  77.4618
+Madapatna+(Jigani) 12.7725  77.6480
+Madappanahalli+(Yelahanka) bus+stand 13.1540  77.5403
+Madavara 13.0525  77.4697
+Madhavan+Park 12.9362  77.5858
+Madhugirihalli 13.1222  77.4974
+Madhuranagar 17.4388  78.4345
+Madhure 13.8370  76.2331
+Madiwala+Ayyappa+Temple 12.9242  77.6181
+Madiwala+Police+Station 12.9202  77.6205
+Magadi 12.9577  77.2261
+Magadi+Chord+Road+Layout 12.9763  77.5395
+Magadi+Road+1st+Cross 12.9756  77.5624
+Magadi+Road+5th+Cross 12.9758  77.5608
+Magadi+Road+Dasarahalli bus+stand 12.9788  77.5407
+Magadi+Road+Police+Quarters 12.9747  77.5508
+Mahadeshwaranagar+(BTM+Layout) 12.9075  77.6086
+Mahadeva+Kodigehalli 13.1443  77.7031
+Mahadevapura 12.9880  77.6895
+Mahadevapura+(Nelamangala) 13.0659  77.3178
+Mahadevapura+Industrial+Area 12.9911  77.7094
+Mahalakshmi+Layout 13.0146  77.5514
+Mahalakshmi+Layout+Entrance 13.0084  77.5487
+Mahanthalingapura 12.7665  77.6178
+Maharani's+College 12.9795  77.5839
+Maharishi+Institute+of+Management 28.5361  77.3796
+Mahila+Seva+Samaja 12.9530  77.5729
+Mailanahalli 12.9030  77.6242
+Majestic/Kempegowda+Bus+Station 12.9778  77.5728
+Makali 13.4461  77.4903
+Makanahalli 13.0093  77.8293
+Malagala 12.9754  77.5168
+Male+Nallasandra 12.8067  77.6046
+Maligondanahalli 12.9162  77.4157
+Mallasandra+(Bagalagunte) 13.0607  77.5118
+Mallathahalli 12.9620  77.4980
+Malleshpalya 12.9757  77.6778
+Malleswaram+11th+Cross 13.0023  77.5712
+Malleswaram+18th+Cross 13.0092  77.5631
+Malleswaram+8th+Cross 12.9993  77.5693
+Malleswaram+Circle 12.9969  77.5714
+Mallimakanapura 13.1272  77.8353
+Mallipalya 12.7958  77.4742
+Mallohalli 13.2308  77.4503
+Mallya+Hospital 12.9681  77.5951
+Manchappanahalli 13.1224  77.9230
+Manchegowdanapalya 12.7223  77.3810
+Mandur 15.4508  73.9228
+Mangammanapalya 12.9027  77.6350
+Manganahalli 12.9540  77.4688
+Manganahalli+Cross bus+stand 12.9526  77.4840
+Manipal+Hospital 12.9584  77.6488
+Manjunathanagar+(Rajajinagar) 12.9818  77.5575
+Mantanakurchi 13.0430  77.3835
+Mantapa 9.2770  79.1252
+Mantapa+Cross 12.7987  77.6015
+Manuvana 29.0970  77.9205
+Manyata+Tech+Park 13.0448  77.6221
+Maragondanahalli+Cross+(Kengeri) 12.9347  77.4316
+Maralakunte 13.1319  77.7061
+Maranayakanahalli 13.1696  77.6436
+Marappa+Garden 13.0064  77.6028
+Marappanapalya 13.0206  77.5516
+Marasandra+(Bagalur) 13.0993  77.7154
+Marasandra+(Doddaballapura+Road) bus+stand 13.3002  77.5387
+Marasur 12.7662  77.7023
+Marathahalli 12.9569  77.7011
+Marathahalli+Borewell 12.9552  77.6882
+Marathahalli+Bridge 12.9569  77.7015
+Marathahalli+Spice+Garden 12.9580  77.7089
+Marenahalli+(Jayanagar+5th+Block) 12.9208  77.5842
+Marenahalli+(Vijayanagar) 12.9703  77.5304
+Mariappa+Circle+(Kalyananagar) bus+stand 13.0247  77.6314
+Mariyamma+Layout 13.0260  77.6500
+Mariyannanapalya 12.9477  77.4982
+Mariyappanapalya+(Rajajinagar) 12.9985  77.5557
+Marur 30.9636  74.8639
+Maruthi+Layout 12.8909  77.6235
+Maruthisevanagar 13.0014  77.6298
+Mastenahalli 13.2781  78.1194
+Mathikere 13.0334  77.5640
+Mathikere+Post+Office 13.0308  77.5611
+Mattadahalli 13.0136  77.5937
+Mattahalli 14.6627  75.0421
+Mattahalli+Cross bus+stand 13.1105  77.4441
+Mattanahalli 12.8718  77.8296
+Mavallipura 13.1193  77.5247
+Mayo+Hall 12.9741  77.6107
+Mazar+Hosahalli+Cross 13.2534  77.5381
+MCTC+Mysore+Road+Bus+Station 12.9525  77.5436
+Meda+Agrahara 13.1013  77.5306
+Medahalli 13.0317  77.7161
+Medanahalli 13.0317  77.7161
+Medarahalli 13.3608  76.1682
+Medi+Mallasandra 12.9533  77.8302
+Meenakshi+Layout 12.8841  77.6744
+Meenakshi+Temple 9.9195  78.1193
+Meesaganahalli 13.3177  77.6450
+MEI+Colony+(Peenya) 13.0193  77.5182
+Mekhri+Circle 13.0145  77.5826
+Mestripalya bus+stand 13.0605  77.6195
+Metaganahalli bus+stand 13.0049  77.3119
+MICO bus+stand 12.9168  77.6033
+MICO+Layout 12.9128  77.6043
+Military+Accounts+Office 12.9667  77.6208
+Minaznagar bus+stand 12.9122  77.5619
+Minto+Eye+Hospital 12.9609  77.5719
+Modi+Eye+Hospital 12.9983  77.5460
+Mohankumarnagar 13.0311  77.5508
+Mookambika+Layout 12.9416  77.3719
+Mookambikanagar 12.9262  77.5347
+Mori+Gate 28.6630  77.2276
+Motaganahalli 13.0050  77.3116
+Mount+Carmel+College 12.9933  77.5878
+Muddamma+Garden 13.0059  77.6038
+Muddanahalli 14.2430  75.4199
+Muddayyanapalya 12.9680  77.4878
+Mugalur 12.8936  77.8221
+Mukkodlu 12.5146  75.7331
+Mullur 12.2440  76.5530
+Muneshwara+Block 12.9445  77.5483
+Muneshwara+Layout 13.0374  77.7323
+Munikondappa+Layout 13.0522  77.5019
+Muninagara 23.1198  87.3764
+Munireddy+Layout+(Horamavu) 13.0230  77.6597
+Muniswamappa+Layout 12.9752  77.6797
+Munnekolalu 12.9486  77.7080
+Munnekolalu+Cross 12.9523  77.7062
+Murugeshpalya 12.9613  77.6561
+Muslim+Colony 13.0102  77.6139
+Muthanallur 12.8318  77.7350
+Muthanallur+Cross 12.8877  77.7375
+Muthasandra 12.9286  77.7938
+Muthkur+(Whitefield) bus+stand 12.9566  77.8062
+Muthugadahalli 13.0949  76.7199
+Muthurayanagudipalya bus+stand 12.8486  77.3673
+Muthurayanapura bus+stand 12.8598  77.4001
+Muthyalanagar 13.0406  77.5498
+MVJ+College+of+Engineering 12.9835  77.7621
+MVJ+Medical+College 13.0773  77.8115
+Mylappanahalli 13.1369  77.5350
+Mysore+Bank+Colony/Banashankari+1st+Stage 12.9390  77.5526
+Mysore+Bank/Kaveri+Bhavan 12.9701  77.5777
+Mysore+Lamp+Works 13.0150  77.5586
+Mysore+Road+Vinayaka+Talkies 12.9632  77.5664
+N+R+Colony 12.9370  77.5684
+N+S+Palya 12.9097  77.6069
+Nagadasanahalli 13.1598  77.5720
+Nagadevanahalli 12.9422  77.4906
+Nagaland+Circle 13.0558  77.5571
+Naganayakanahalli+(Kanakapura+Road) bus+stand 12.7924  77.4775
+Naganayakanakote 12.9657  77.7966
+Naganayakanakote+Cross bus+stand 12.9654  77.7999
+Nagannapalya 13.0022  77.6374
+Nagapura 21.1458  79.0882
+Nagarabhavi+1st+Stage 12.9532  77.5223
+Nagarabhavi+1st+Stage+3rd+Block 12.9515  77.5209
+Nagarabhavi+2nd+Stage+7th+Block 12.9731  77.5106
+Nagarabhavi+2nd+Stage+8th+Block 12.9723  77.5143
+Nagarabhavi+9th+Block 12.9590  77.5143
+Nagarabhavi+BDA+Complex 12.9801  77.5114
+Nagarabhavi+BDA+Complex+Cross 12.9832  77.5180
+Nagarabhavi+Circle 12.9585  77.5190
+Nagarabhavi+Maruthinagar 12.9603  77.5240
+Nagarabhavi+Village 12.9570  77.5158
+Nagarur 14.9904  77.8310
+Nagasandra+(Tumkur+Road) 13.0481  77.5001
+Nagasandra+Circle 12.9369  77.5720
+Nagasandrapalya 13.0014  77.3774
+Nagashettyhalli 13.0425  77.5718
+Nagavara 13.0422  77.6136
+Nagavara+Junction+(Outer+Ring+Road) 13.0410  77.6234
+Nagavarapalya 12.9890  77.6665
+Nagegowdanapalya 12.8645  77.5198
+Nagenahalli+Gate 13.1300  77.5715
+Nagendra+Block 12.9403  77.5498
+Nagondanahalli 12.9712  77.7679
+Naidu+Layout+(Chikkalasandra) 12.9175  77.5455
+Nallakkanadoddi 15.1661  77.4759
+Nallur 13.2115  80.1512
+Nallurahalli 12.9705  77.7329
+Nanda+Talkies 12.9325  77.5803
+Nandagudi 13.1178  77.9653
+Nandini+Layout 13.0137  77.5339
+Nanjappa+Circle+(Shanthinagar) 12.9600  77.6015
+Nanjappa+Circle+(Vidyaranyapura) 13.0683  77.5604
+Nanjapura 12.7971  77.6393
+Narasapura 13.1092  77.4630
+Narasipura 12.2110  76.9038
+Narayana+Nagar 11.6533  78.1664
+Narayanaghatta 12.8365  77.7266
+Narayanakere 12.9434  77.8585
+Narayanapura 12.9934  77.6735
+National+College+Basavanagudi 12.9487  77.5729
+National+Games+Village 12.9487  77.6199
+National+Law+School+of+India+University 12.9551  77.5173
+Navarang+Talkies bus+stand 12.9983  77.5509
+Navya+Layout 12.7863  77.6584
+Nayakanapalya 12.9026  77.2822
+Nayanahalli 12.9446  77.5256
+Nayandahalli 12.9446  77.5256
+Nayandahalli+Railway+Gate 12.9466  77.5257
+Nayandahalli+Vinayaka+Layout bus+stand 12.9608  77.5075
+Neelasandra 12.9550  77.6142
+Neelasandra+Rose+Garden 12.9540  77.6170
+Nekkundi+Dommasandra 12.9264  77.7752
+Nelagadaranahalli 13.0327  77.5025
+Nelagulli 12.7744  77.4896
+Nelagulli+Cross 12.7741  77.4921
+Nelamangala 13.0973  77.3856
+Nelamangala+Harsha+Hospital 13.0927  77.3957
+Nelamangala+TB+Stop 13.0973  77.4013
+Nelamangala+Weavers+Colony 13.0943  77.4056
+Nelavagilu 13.2333  77.9210
+Neraganahalli 14.3439  76.0892
+Neragenahalli 13.1309  77.5741
+Neraluru 12.7950  77.7302
+Nerige 12.9116  77.7760
+Nettakalappa+Circle 12.9402  77.5733
+Nettigere 12.7567  77.5017
+Nettigere+Gate 12.7594  77.4861
+New+Guddadahalli 12.9571  77.5455
+New+Horizon+College 12.9334  77.6914
+New+MICO+Gate bus+stand 12.8704  77.6583
+NGEF+Layout+(Nagarabhavi) 12.9588  77.5089
+NICE+Road+10th+Stone bus+stand 12.8712  77.5004
+NICE+Road+3rd+Stone bus+stand 13.0261  77.4755
+NICE+Road+4th+Stone bus+stand 12.8531  77.5435
+NICE+Road+5th+Stone bus+stand 12.8514  77.5488
+NICE+Road+6th+Stone bus+stand 12.8480  77.5652
+NICE+Road+7th+Stone 12.8488  77.5740
+NICE+Road+8th+Stone bus+stand 12.8533  77.5964
+NICE+Road+9th+Stone bus+stand 12.8666  77.6304
+NICE+Road+Bannerghatta+Road+Toll 12.8503  77.5816
+NICE+Road+Kanakapura+Road+Toll bus+stand 12.8512  77.5522
+NICE+Road+Mysore+Road+Junction 12.9017  77.4707
+NICE+Road+Sompura+Toll bus+stand 12.8759  77.4964
+Nidaghatta 12.6201  77.0930
+Nimbekayipura 13.0581  77.7561
+Nimishamba+Layout 12.2820  76.6218
+Nirmala+Stores 12.9416  77.5596
+Nobel+Residency+Gate bus+stand 12.8627  77.6152
+Nosenur 12.7415  77.6460
+Nrupathunganagar 12.8830  77.5845
+Nyanappanahalli 12.8799  77.6157
+O+B+Choodahalli 12.8178  77.5205
+Obalapura 13.4306  77.1557
+Oddarapalya 12.9320  77.4953
+Okalipuram 12.9835  77.5655
+Old+Byappanahalli 12.9402  77.5401
+Old+Gurappanapalya 12.9244  77.6013
+OMBR+Layout 13.0076  77.6505
+Omkarnagar 12.8817  77.5927
+Orion+Mall+(Yeshwanthpur) 13.0111  77.5548
+Padmanabhanagar 12.9156  77.5568
+Padmeshwarinagar 13.0308  77.7123
+Paduka+Mandira 12.8973  77.5332
+Palace+Grounds 12.9937  77.6603
+Palace+Guttahalli 12.9974  77.5780
+Palanahalli+Gate 13.1172  77.6081
+Panathur 12.9356  77.7057
+Panchasheela+Nagar 21.1729  79.1150
+Pandithana+Agrahara 12.8805  77.8210
+Papareddypalya 12.9756  77.5060
+Parade+Ground 22.5545  88.3409
+Parangipalya 12.9086  77.6493
+Parappana+Agrahara 12.8735  77.6581
+Parasanapalya bus+stand 12.7994  77.4373
+Parvathinagar 15.1503  76.9254
+Patelappa+Layout 13.0457  77.5745
+Pattanagere 12.9187  77.5111
+Pattandur+Agrahara 12.9825  77.7380
+Pattegarpalya+Circle 12.9764  77.5260

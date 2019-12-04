@@ -1,0 +1,445 @@
+Dommasandra 12.8797  77.7536
+Dommasandra+Circle 12.8831  77.7525
+Don+Bosco+Institute+of+Technology 12.8813  77.4468
+Doopanahalli 12.9672  77.6386
+Dooravani+Nagar/ITI+Circle 13.0081  77.6833
+Double+Road bus+stand 12.9546  77.5922
+Dr+Ambedkar+Institute+of+Technology 12.9637  77.5060
+Dr+Ambedkar+Nagar 22.5505  75.7625
+Dubasipalya 12.9279  77.4967
+Dubasipalya+Cross 12.9230  77.4960
+Dunnasandra 12.9758  77.8189
+Duo+Heights+Layout 12.8844  77.6200
+Dwarakanagar 17.7295  83.3081
+Dyavasandra 12.7537  77.6465
+E+Muthasandra 13.1454  77.8156
+East+Point+College+of+Engineering 13.0503  77.7147
+Ebenezer+International+School 12.8402  77.7077
+Ecospace+(Bellandur) 12.9275  77.6810
+Ejipura 12.9385  77.6308
+Electric+B+Station+(M+G+Road) 12.9739  77.6140
+Electronic+City 12.8440  77.6739
+Electronic+City+Phase-2 12.8441  77.6794
+Electronic+City+Wipro+Gate 12.8379  77.6583
+Eshwara+Layout 12.9755  77.6343
+FCI+Colony 17.3331  78.5629
+Forum+Value+Mall+(Whitefield) 12.9596  77.7483
+Fraser+Town 12.9970  77.6144
+Fraser+Town+Post+Office 13.0007  77.6164
+Freedom+Fighters+Colony 28.5090  77.1977
+G+R+Tech+Park+(ITPL) 12.9853  77.7434
+Gaanigarapalya 12.8731  77.5326
+Gabbadi 12.7127  77.4816
+Gadenahalli 13.0076  76.2276
+Gadipalya 12.7662  77.5302
+Gajendranagar 12.9505  77.6074
+Ganagalu 13.0492  77.8019
+Ganagalu+Cross bus+stand 13.0460  77.7976
+Ganagaluru 12.9112  77.8516
+Ganakal 12.8949  77.5109
+Ganapathihalli 12.9168  77.3999
+Ganapathihalli+Colony 12.9136  77.3942
+Ganapathihalli+Village 12.9168  77.3999
+Ganapathipura 12.8911  77.5691
+Gandhi+Bazaar 12.9456  77.5713
+Gandhi+Grama 13.0630  76.6424
+Ganesh+Bhavan 19.3154  84.7831
+Gangamma+Circle 13.0579  77.5463
+Ganganagar 29.9094  73.8800
+Gangappanahalli 12.9604  77.3597
+Gangapura 19.6975  75.0105
+Gangasandra 12.8466  77.4708
+Gangawara 13.1523  77.7648
+Gangondanahalli+(Magadi+Road) 12.9757  77.5554
+Gangondanahalli+(Mysore+Road) bus+stand 12.9525  77.5436
+Ganigarahalli 13.0882  77.5111
+Gantaganahalli 13.1437  77.5887
+Garden+City+College 12.9800  77.6372
+Garebhavipalya 12.8944  77.6368
+Garepalya 12.7017  77.4356
+Garuda+Mall 12.9702  77.6101
+Garudacharpalya 12.9878  77.7009
+Gattahalli 12.8684  77.7029
+Gaurav+Nagar 25.1449  85.2043
+Gavigangadhareshwara+Temple 12.9481  77.5630
+Gavipuram 12.9464  77.5598
+Gaviyanapalya bus+stand 12.8410  77.4700
+Gayathri+Layout 13.0091  77.7054
+Gayathrinagar 13.0007  77.5576
+GEAR+Innovative+International+School 12.9177  77.6973
+Geddalahalli+(Hennur) 13.0523  77.6369
+Geddalapura bus+stand 12.9956  77.8405
+Gejjagadahalli 13.0593  77.4257
+Geleyara+Balaga+Layout 13.0689  77.5060
+Gerahalli 12.5062  77.3486
+Gerupalya 13.0125  77.2878
+Gerupura 13.0754  77.9280
+Gidada+Konnenahalli 12.9751  77.4946
+Gidadapalya bus+stand 12.9602  77.4374
+Giddenahalli+(Bannerghatta+Road) bus+stand 12.7567  77.6246
+Girigowdanadoddi 12.5957  77.4178
+Girija+Shankara+Kalyana+Mantapa+(Vijayapura) 13.2946  77.7905
+Girinagar 12.9421  77.5464
+Girinagar+Circle 12.9407  77.5453
+Girinagar+Cross 12.9432  77.5447
+Gitanjali+Layout 12.9750  77.6556
+GKVK 13.0797  77.5808
+GKW+Layout 12.9674  77.5288
+Global+Village+(Mysore+Road) 12.9188  77.5014
+Gokula+Extension 13.0409  77.5555
+Gollahalli+Cross+(Budigere) bus+stand 13.1504  77.7284
+Gollahalli+Cross+(Kodipalya) bus+stand 12.8779  77.4816
+Gollarahatti 12.9912  77.4623
+Gonighattapura 12.9112  77.7824
+Gonighattapura+Cross 12.9098  77.7855
+Gonipura 12.8318  77.4505
+Gopalapura+(Hesaraghatta) 13.1500  77.4900
+Gopalapura+(Rajajinagar) 12.9791  77.5627
+Goraguntepalya 13.0273  77.5383
+Gottigehalli 12.7207  77.5261
+Gottigere 12.8564  77.5888
+Gottipura 13.1021  77.8439
+Govardhan+Theater 13.0216  77.5513
+Govindapura+(Hosakote) 13.2666  77.2736
+Govindapura+(Nagavara) 13.0349  77.6207
+Govindapura+Cross+(Nagavara) 13.0323  77.6220
+Govindaraja+Nagar 12.9763  77.5354
+Govindayyanapalya 13.0695  77.5476
+Gowdahalli 13.0437  75.5988
+Gowdanapalya 12.9097  77.5567
+Gowdanapalya+Prarthana+School 12.9115  77.5581
+GPO bus+stand 17.3874  78.4764
+Gubbalala 12.8871  77.5433
+Gubbalala+Gate 12.8842  77.5507
+Gubbi+Cross 13.0658  77.6519
+Gudahatti 26.1445  91.7362
+Gudahatti+Gate bus+stand 12.7886  77.7354
+Guddadahalli 12.9578  77.5462
+Guddadahalli+Dinne+(Bidadi) 12.8336  77.3442
+Guddahalli+(Hesaraghatta) 13.1500  77.4900
+Gudipalya 12.7946  77.4843
+Gudipalya+Cross bus+stand 12.7885  77.4838
+Gulakamale 12.7976  77.5304
+Gulimangala 12.8450  77.6966
+Gunasheela+Hospital 12.9403  77.5765
+Gundanjaneya+Temple 13.0580  77.5901
+Gundur 10.7351  78.7306
+Gungarahalli 13.4162  75.8737
+Gunjur 12.9213  77.7340
+Gunjurpalya 12.9218  77.7186
+Gurappanapalya 12.9203  77.6028
+Guruvanahalli 13.4589  77.2678
+H+Gollahalli bus+stand 12.8759  77.4801
+Hagadur 12.9661  77.7570
+Hakki+Pikki+Colony+(Mysore+Road) bus+stand 12.8443  77.4017
+HAL+3rd+Stage 12.9683  77.6503
+HAL+Airport 12.9503  77.6666
+HAL+ESI+Hospital 12.9712  77.6369
+HAL+Kalyana+Mantapa 12.9597  77.6682
+HAL+Main+Gate 12.9585  77.6658
+Halage+Vaderahalli bus+stand 12.9202  77.5140
+Halasahalli 12.9241  77.7626
+Halasinganahalli 13.0114  77.1870
+Halasuru+Lake/Ulsoor+Lake 12.9832  77.6200
+Halasuru+Police+Station/Ulsoor+Police+Station 12.9749  77.6253
+Halasuru/Ulsoor 12.9832  77.6200
+Halehalli 12.7392  77.7513
+Halehalli+Muneshwara+Temple 12.7319  77.7546
+Halubhavipalya bus+stand 12.9420  77.4160
+Hampapura 11.9995  76.7207
+Hampinagar 12.9624  77.5366
+Hancharahalli 13.0939  77.7506
+Handenahalli 12.8258  77.7669
+Haniyur 12.5473  77.2763
+Hanumanthanagar 12.9425  77.5626
+Hanumanthegowdanapalya 13.0932  77.3441
+Haragadde 12.7638  77.6507
+Haralur+(Sarjapur+Road) 12.8996  77.6594
+Harappanahalli 14.7810  75.9870
+Haridasa+Nagar 19.2208  72.8471
+Harishchandra+Temple 19.0472  73.8368
+Harohalli+(Attibele) bus+stand 12.7541  77.7561
+Hasanath+College+for+Women 12.9800  77.6161
+Hasigala 13.1369  77.7710
+Havanur+Circle 12.9880  77.5374
+HBR+Layout+1st+Block 13.0200  77.6241
+HBR+Layout+2nd+Block 13.0232  77.6286
+HBR+Layout+2nd+Stage+BDA+Park 12.9616  77.6595
+HBR+Layout+3rd+Block 13.0284  77.6269
+HBR+Layout+4th+Block 13.0308  77.6334
+HBR+Layout+5th+Block 13.0367  77.6294
+HBR+Layout+BDA+Complex 13.0252  77.6280
+Head+Start+Educational+Academy 12.8600  77.7344
+Hebbagodi 12.8257  77.6780
+Hebbal 13.0354  77.5988
+Hebbal+Kempapura 13.0529  77.6015
+Heelalige 12.8133  77.7110
+Heggadagere 12.7685  77.3799
+Hegganahalli+(Peenya) bus+stand 13.0110  77.5068
+Hegganahalli+Cross+(Peenya) 13.0028  77.4982
+Hejjala 12.8559  77.4169
+Hejjala+Cross 12.8553  77.4267
+Heligehalli+Colony bus+stand 12.8763  77.2067
+Hemapura 11.9995  76.7207
+Hemmigepura 12.8859  77.4903
+Hennagara 12.7889  77.6751
+Hennur 13.0359  77.6431
+Hennur+Bande 13.0331  77.6403
+Hennur+Cross 13.0316  77.6360
+Hennur+Junction/HRBR+Layout+3rd+Block 13.0275  77.6327
+Herohalli 12.9897  77.4896
+Herohalli+Cross 12.9820  77.5324
+Hesaraghatta 13.1500  77.4900
+Hesaraghatta+Farm 13.1620  77.4731
+Hidayath+Nagar 12.6737  74.9088
+Hirandahalli 13.0466  77.7226
+HMT+Auditorium 13.0496  77.5437
+HMT+Bhavan 13.0200  77.5844
+HMT+Layout 13.0311  77.5569
+HMT+Watch+Factory bus+stand 13.0506  77.5351
+Hockey+Stadium 12.9617  77.6006
+Hombegowdanagar 12.9375  77.5949
+Hommadevanahalli 12.8445  77.5978
+Honachanahalli 13.0178  77.8553
+Honeywell+(Bannerghatta+Road) 12.8991  77.6003
+Hongasandra 12.8946  77.6258
+Honnapura 13.7364  77.1090
+Honnasandra 13.1109  77.4401
+Hoodi 12.9900  77.7133
+Hope+Farm bus+stand 12.9838  77.7531
+Horamavu 13.0326  77.6583
+Horamavu+Agara 13.0411  77.6622
+Hosa+Road 12.8706  77.6558
+Hosadoddi 12.4861  77.3832
+Hosakerehalli 12.9222  77.5363
+Hosakerehalli+Kerekodi+(Muneshwaranagar) 12.9295  77.5350
+Hosakote 13.0693  77.7982
+HOSMAT+Hospital 12.9691  77.6133
+Hoysalanagar+(Ramamurthynagar) 13.0173  77.6665
+HRBR+Layout 13.0191  77.6465
+HRBR+Layout+3rd+Block/Hennur+Junction 13.0275  77.6322
+HSBC+(Bannerghatta+Road) 12.8920  77.5994
+HSR+Layout+2nd+Sector 12.9080  77.6516
+HSR+Layout+BDA+Complex 12.9139  77.6375
+HSR+Layout+KPTCL+Station 12.9025  77.6496
+HSR+Layout+Sector+7 12.9084  77.6350
+HSR+Layout+SI+Apartment 12.9166  77.6293
+Hulimangala 12.8182  77.6379
+Hulimangala+Cross 12.8139  77.6375
+Hulimavu 12.8791  77.6098
+Hulimavu+Gate 12.8814  77.5959
+Hullahalli 12.0976  76.5560
+Hullahalli+Cross bus+stand 12.8280  77.6233
+Huluvenahalli 12.9196  77.3641
+Hunase+Mara+(Banashankari) bus+stand 12.9210  77.5733
+Hunasemaradapalya 12.9156  77.4446
+Hunasemaranahalli 13.1431  77.6291
+Hunsur 12.3091  76.2833
+Huskur+Cross+(Tumkur+Road) 13.1205  77.4232
+Huskur+Gate+(Hosur+Road) 12.8362  77.6795
+Huthanahalli 13.1654  77.6500
+Huttanahalli 13.1654  77.6500
+Huttanahalli+Cross 13.1653  77.6499
+Huvinayakanahalli 13.1479  77.6898
+Iblur 12.9266  77.6608
+Ichangur 12.8234  77.8396
+Ideal+Home+Circle 12.9247  77.5181
+Iggalur 12.7831  77.7023
+IIM+Bangalore 12.8956  77.6025
+Ilyasnagar 12.9064  77.5704
+Immadihalli 12.9650  77.7595
+Income+Tax+Layout 12.9604  77.5318
+Indian+Express/Balekundri+Circle 12.9842  77.5971
+Indian+Institute+Of+Plantation+Management 12.9613  77.5051
+Indian+Statistical+Institute 22.6488  88.3770
+Indira+Nursing+Home 12.3421  76.6175
+Indira+Priyadarshini+Nagar 21.2200  81.6560
+Indiranagar+100+Feet+Road/Indiranagar+Police+Station 12.9830  77.6383
+Indiranagar+1st+Stage 12.9801  77.6429
+Indiranagar+BMTC+Depot 12.9820  77.6343
+Indiranagar+ESI+Hospital 12.9712  77.6369
+Indiranagar+ISRO+Housing+Colony 12.9661  77.6349
+Indiranagar+Police+Station/Indiranagar+100+Feet+Road 12.9830  77.6383
+Indlabele 12.7807  77.7710
+Indlavadi 12.7285  77.6386
+Indrasanahalli 13.2252  77.6146
+Indus+International+School 12.8352  77.7783
+Injanahalli 13.0674  77.8867
+Inner+Ring+Road+ISRO+Quarters 12.9704  77.6348
+Innovative+Multiplex 12.9519  77.6990
+Inventure+Academy 12.8947  77.7455
+Isolation+Hospital 12.9857  77.6441
+ISRO+Layout 12.8985  77.5591
+ITC+Factory+(Bellary+Road) 12.9985  77.6223
+ITI bus+stand 23.3761  85.2837
+ITI+Circle/Dooravani+Nagar 13.0081  77.6833
+ITI+Colony+(K+R+Puram) 13.0099  77.6894
+ITI+Layout+(Mallathahalli) 12.9688  77.5000
+ITPL 12.9859  77.7355
+Ittamadu+(Bidadi) bus+stand 12.7566  77.4046
+Ittige+Factory 13.1026  77.6295
+Ittina+Nagar 12.7809  77.6400
+Ittumadu 12.9227  77.5453
+Ivarakandapura 13.1367  77.4938
+J+C+Nagar 13.0082  77.5949
+J+P+Nagar+1st+Phase 12.9118  77.5795
+J+P+Nagar+3rd+Phase 12.9122  77.5923
+J+P+Nagar+4th+Phase+Dollars+Colony 12.9063  77.5996
+J+P+Nagar+6th+Phase 12.8986  77.5709
+J+P+Nagar+9th+Cross bus+stand 12.9546  77.5922
+J+P+Nagar+Kalyani+Magnum 12.9000  77.5971
+Jadigenahalli 13.0512  77.8532
+Jagadeeshnagar 12.9685  77.6640
+Jagajeevanramnagar 12.9656  77.5507
+Jaibheemanagar 12.9923  77.5727
+Jaibhuvaneshwarinagar 13.0154  77.5329
+Jaimaruthinagar 13.0073  77.5326
+Jakkanahalli 12.6602  76.6846
+Jakkasandra 13.0908  77.3877
+Jakkur 13.0631  77.6207
+Jakkur+Layout 13.0631  77.6207
+Jalahalli 13.0528  77.5419
+Jalahalli+Cross 13.0399  77.5182
+Jalahalli+East 13.0699  77.5449
+Jalahalli+East+7+Camp bus+stand 13.0736  77.5463
+Jalahalli+Police+Station 13.0487  77.5495
+Jalahalli+West 13.0612  77.5193
+Jalige 13.2254  77.5834
+Jalli+Machine+(Begur) 12.8363  77.6250
+Jambusavari+Dinne 12.8657  77.5808
+Janapriya+Township 12.9989  77.4427
+Jangamakote 13.2554  77.8496
+Jantagondanahalli bus+stand 12.9242  77.7856
+Jaraganahalli 12.8987  77.5764
+Jawahar+Navodaya+Vidyalaya+(Bagalur) 13.1492  77.6739
+Jayadeva+Hospital 12.9181  77.5993
+Jayamahal 12.9999  77.5951
+Jayanagar+18th+Main 12.9232  77.5893
+Jayanagar+1st+Block 12.9392  77.5895
+Jayanagar+3rd+Block 12.9329  77.5839
+Jayanagar+4th+Block 12.9259  77.5830
+Jayanagar+4th+Block+Church 12.9274  77.5879
+Jayanagar+4th+T+Block 12.9254  77.5918
+Jayanagar+5th+Block 12.9208  77.5842
+Jayanagar+6th+Block 12.9318  77.5783
+Jayanagar+7th+Block 12.9270  77.5766
+Jayanagar+8th+Block 12.9198  77.5777
+Jayanagar+9th+Block 12.9205  77.5920
+Jayanagar+9th+Block+East+End 12.9181  77.6048
+Jayanagar+LIC+Colony 12.9299  77.5895
+Jayanagar+Pump+House 12.9065  77.5821
+Jayanagar+Telephone+Exchange 12.9240  77.5840
+Jayanthinagar 13.0219  77.6702
+Jayapura 2.6827  140.8040
+Jedi+Mara+(J+P+Nagar+3rd+Phase) 12.9082  77.6004
+Jeevanabhimanagar 12.9642  77.6581
+Jeevanahalli 12.9950  77.6302
+JHBCS+Layout bus+stand 12.9114  77.5633
+JHBCS+Layout+Cross bus+stand 12.9128  77.5635
+Jigala 12.7971  77.7595
+Jigala+Cross 12.7821  77.7719
+Jigani 12.7791  77.6436
+Jigani+APC+Circle 12.7790  77.6438
+Jinke+Bachahalli 13.2466  77.5325
+Jinkethimmanahalli 13.0280  77.6838
+Jinnanagara bus+stand 13.0331  77.8207
+Jnana+Bharathi 12.9421  77.5059
+Jnanajyothinagar 12.9413  77.4974
+Jodi+Thimmasandra bus+stand 13.2046  77.4210
+Jogerahalli 12.9857  77.3744
+Johnson+Market 12.9642  77.6063
+Jyothi+Farm 12.8599  77.5289
+Jyothi+Nagar+(Nagarabhavi) 12.9569  77.5200
+Jyothi+School 13.3860  78.0843
+Jyothinagar+Janatha+Colony 12.9442  77.4965
+Jyothipura 13.1026  77.7502
+K+C+General+Hospital 12.9960  77.5694
+K+Mallasandra 13.0079  77.7817
+K+Narayanapura 13.0629  77.6450
+K+R+Circle 12.9739  77.5868
+K+R+Market 12.9656  77.5770
+K+R+Puram 13.0170  77.7044
+K+R+Puram+Railway+Station 13.0006  77.6746
+K+Vinayakanagar 12.9633  77.6792
+Kachamaranahalli 12.9122  77.7334
+Kachanayakanahalli 12.8001  77.6855
+Kacharakanahalli 13.0156  77.6321
+Kachohalli 13.0001  77.4709
+Kada+Agrahara+(Hennur) bus+stand 13.0809  77.6913
+Kada+Agrahara+(Sarjapur) bus+stand 12.8614  77.7856
+Kadabagere 12.9969  77.4331
+Kadabagere+Cross 12.9898  77.4487
+Kadabisanahalli 12.9394  77.6952
+Kadajakkanahalli 12.7374  77.6338
+Kadasonnappanahalli bus+stand 13.1018  77.6585
+Kadathanamale 13.2101  77.5453
+Kadayarappanahalli 14.7810  75.9870
+Kadayarappanahalli+Cross bus+stand 13.1841  77.7049
+Kadirenahalli 12.9155  77.5627
+Kadirenahalli+Cross 12.9139  77.5666
+Kadu+Jakkasandra 12.7001  77.5130
+Kadugodi 12.9908  77.7608
+Kadugondanahalli 13.0186  77.6186
+Kaggadasapura 12.9836  77.6797
+Kaggalipura 12.8019  77.5096
+Kaggalipura+Colony 12.8046  77.5049
+Kaikondrahalli 12.9138  77.6850
+Kaji+Sonnenahalli bus+stand 13.0344  77.7701
+Kakaramanahalli 12.8290  77.3640
+Kakkehalli 12.8329  75.9086
+Kakolu 13.1890  77.5179
+Kalathammanahalli 13.0409  76.0131
+Kalena+Agrahara 12.8711  77.5935
+Kalenahalli 12.8509  76.3493
+Kalidasa+Layout 12.9485  77.5516
+Kalkere+(Bannerghatta) 12.8324  77.5890
+Kalkere+(Horamavu) 13.0335  77.6739
+Kalkunte+Agrahara 12.9326  77.8406
+Kallabalu 12.7721  77.6233
+Kallahalli 12.3166  76.2200
+Kallodu 13.1697  77.4286
+Kallur 15.8160  78.0276
+Kalya+Gate 12.9579  77.2213
+Kalyananagar+(HRBR+Layout+2nd+Block) 13.0198  77.6413
+Kalyananagar+Bridge 12.9690  77.5179
+Kamakhya+Theater 12.9233  77.5533
+Kamakshipalya 12.9857  77.5267
+Kamakshipura 13.1956  77.4810
+Kamala+Nehru+Extension 13.0216  77.5573
+Kamalanagar 22.6192  92.6363
+Kamalanagar+BEML+Layout 12.9921  77.5322
+Kamalanagar+Water+Tank 12.9949  77.5377
+Kamanahalli+Circle+(Varthur) 12.9081  77.7927
+Kamarasanahalli 13.0125  77.8639
+Kambadakallu bus+stand 13.0998  77.3112
+Kambalipura+(Attibele) bus+stand 12.7609  77.7439
+Kambalipura+(Hosakote) bus+stand 13.0772  77.7996
+Kambipura 12.8803  77.4594
+Kammagondanahalli 13.0590  77.5347
+Kammagondanahalli+Bridge 13.0549  77.5348
+Kammanahalli 13.0159  77.6379
+Kammasandra+(Hosakote) bus+stand 13.1499  77.7811
+Kammasandra+(Tumkur+Road) bus+stand 13.0345  77.4394
+Kanakadasa+Circle+(Rajarajeshwarinagar) 12.9149  77.5206
+Kanakanagar 13.0342  77.6064
+Kanakapura+Road+NICE+Road+Junction 12.8576  77.5273
+Kanasawadi 13.2093  77.4368
+Kanchugaranahalli 12.7089  77.4444
+Kanchugaranahalli+Colony 12.7160  77.4408
+Kannahalli 12.9633  77.4559
+Kannamangala+Gate+(Bellary+Road) 13.2069  77.6685
+Kannamangala+Gate+(Hosakote) 13.0322  77.7585
+Kannamangala+Gate+(Tumkur+Road) 13.1908  77.4200
+Kannamangalapalya+(Bellary+Road) 13.2216  77.6699
+Kannur 11.8745  75.3704
+Kannurahalli 13.0596  77.8075
+Kanteerava+Stadium 12.9697  77.5935
+Kanteerava+Studio 13.0200  77.5333
+Kanuvanahalli 12.9067  77.6757
+Kareemsab+Layout 12.9979  77.5139
+Karenahalli+(Bidadi) bus+stand 12.7824  77.4689
+Karigowdanahalli 11.7192  76.6615
+Karikalpalya bus+stand 12.9342  77.3815
+Karishma+Hills 12.8877  77.5344
+Karlapura 12.0834  76.6541
+Karnataka+College+of+Pharmacy 13.0862  77.6356
