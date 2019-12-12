@@ -1,0 +1,29 @@
+1 B1 Devegowda Petrol Bunk
+2 B2 Hoskeralli
+3 B3 Channasandra RNSIT
+4 B4 Kathriguppe
+5 B5 Kamakya Theatre
+6 B6 PESIT Collage
+7 B7 Katherguppe Circle
+8 B8 HosaKerehalli
+9 B9 Bata Show Room
+10 B10 Ittamadu
+11 B11 Rajarajeshwari temple
+12 B12 Jantha Bazar
+13 B13 Kuthriguppe
+14 B14 Hosakarehalli
+15 B15 Rajarajeshwarinagar Double Road
+16 B16 Kathriguppe
+17 B17 HosaKerehalli
+18 B18 Kamakya Theatre
+19 B19 Kanthi Sweets RR Nagar
+20 B20 HosaKerehalli
+21 B21 Chowdeshwari Talkies
+22 B22 Jayanagar
+23 B23 Kattrigupe
+24 B24 Kadirenahallli
+25 B25 Kathriguppe
+26 B26 Mantri Apartment
+27 B27 Channasandra RNSIT
+28 B28 Kodipalya (Uttarahalli main Road)
+29 B29 Uttarahalli road Kengeri
