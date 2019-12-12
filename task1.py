@@ -68,7 +68,7 @@ def geocode(address, api_key):
 
     json_data = json.loads(res.text)
 
-    print(json_data) #billing information is needed for this error is coming
+    #print(json_data) #billing information is needed for this error is coming
     res = res.json() #converting to json
     # if there's no results or an error, return empty results.
     if len(res['results']) == 0:
@@ -133,3 +133,43 @@ if __name__ == "__main__":
 		f.write(j)
 
 	f.close()
+
+
+def make_data( size , output_file_name):
+    output = open(output_file_name, "w")
+    input = open("busstops.txt",'r')
+    make_string =""
+    for string in input:
+        make_string+=str(string)
+    json_data = json.loads(make_string)
+    data_list = json_data["features"]
+    
+
+    rand = sample(range(2000), size)
+    for val in rand:
+        i = data_list[val]
+        output.write(str(i["geometry"]["coordinates"][1]) + " " +str(i["geometry"]["coordinates"][0])+ " \n")
+        print(str(i["geometry"]["coordinates"][1]) + " " +str(i["geometry"]["coordinates"][0]))  
+
+
+
+def make_distance_matrix (input_data, output_file_name):
+    output = open(output_file_name, "w")
+    input = open(input_data,'r')
+    input = input.readlines()
+
+    osrm_url = 'http://127.0.0.1:5000/table/v1/driving/'
+
+    for i in input:
+        i = i.split()
+        osrm_url += str(i[1]) +','+str(i[0])+';'
+    osrm_url = osrm_url[:len(osrm_url)-1]
+    osrm_url+= '?annotations=distance'
+    distance_json = requests.get(osrm_url)
+    distance_data = json.loads(distance_json.text)
+    for data in distance_data['distances']:
+        for values in data:
+            output.write(str(values)+ " ")
+        output.write("\n")
+
+make_distance_matrix('test_data1.txt', 'distance_matrix_test_case1.txt')
