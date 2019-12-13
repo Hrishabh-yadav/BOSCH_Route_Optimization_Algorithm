@@ -5,8 +5,9 @@ import requests
 import logging
 import time
 import json
+from random import sample
 
-
+ 
 logger = logging.getLogger("root")
 logger.setLevel(logging.DEBUG)
 
@@ -172,4 +173,6 @@ def make_distance_matrix (input_data, output_file_name):
             output.write(str(values)+ " ")
         output.write("\n")
 
-make_distance_matrix('test_data1.txt', 'distance_matrix_test_case1.txt')
+#make_distance_matrix('test_data3.txt', 'distance_matrix_test_case3.txt')
+
+#make_data(1500,'test_data3.txt')
