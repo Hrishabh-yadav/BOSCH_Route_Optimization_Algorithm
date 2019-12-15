@@ -21,11 +21,27 @@ def getdata(input_file):
     ans.append(dupe)
     return ans
 
-def getdemands(n):
-    arr=[0]
-    for i in range(1,n):
-        arr.append(random.randint(1,3))
+def getdemands(n, demands_file):
+    """
+    For random data,
+    uncomment the commented part, and vice versa
+    """
+
+    f = open(demands_file,'r')
+    arr = (f.read()).split()
+    for i in range(0,n-1):
+        #arr.append(random.randint(5,10)) #uncomment for random data
+        arr[i] = int(arr[i])
+    arr = arr[:n-1]
+    arr[0] = 0
+    """
+    #Uncomment for random data
+    arr=[0] 
+    for i in range(0,n-1):
+        arr.append(random.randint(5,10)) 
+    """
     return arr
+
 
 def get_sum(data):
     sum = 0
@@ -33,13 +49,13 @@ def get_sum(data):
         sum += i
     return sum
     
-def create_data_model(input_file):
+def create_data_model(input_file, demands_file):
     """Stores the data for the problem."""
     data = {}
     data['distance_matrix'] = getdata(input_file)
-    data['demands'] = getdemands(len(data['distance_matrix']))
+    data['demands'] = getdemands(len(data['distance_matrix']), demands_file)
     data['demand_sum'] = get_sum(data)
-    data['num_vehicles'] = data['demand_sum']//36+1
+    data['num_vehicles'] = data['demand_sum']//36+20
     data['vehicle_capacities'] = [] 
     for i in range(0,data['num_vehicles']):
         data['vehicle_capacities'].append(36)
@@ -119,7 +135,7 @@ def algo_type(algo_num):
     elif algo_num == 10:
         return routing_enums_pb2.FirstSolutionStrategy.FIRST_UNBOUND_MIN_VALUE
 
-def main(input_file):
+def main(input_file, demands_file):
     # Instantiate the data problem.
     print("Algo_starts_running")
     print("\n--------------------------------------------------------------------------------------\n")
@@ -148,7 +164,7 @@ def main(input_file):
             routing.AddDimension(
                 transit_callback_index,
                 0,  # no slack
-                10000000000,  # vehicle maximum travel distance
+                67000,  # vehicle maximum travel distance
                 True,  # start cumul to zero
                 dimension_name)
             distance_dimension = routing.GetDimensionOrDie(dimension_name)
@@ -171,10 +187,9 @@ def main(input_file):
             
             
             search_parameters = pywrapcp.DefaultRoutingSearchParameters()
-            search_parameters.local_search_metaheuristic = (
-                routing_enums_pb2.LocalSearchMetaheuristic.GUIDED_LOCAL_SEARCH)
+            search_parameters.local_search_metaheuristic = (routing_enums_pb2.LocalSearchMetaheuristic.GUIDED_LOCAL_SEARCH)
             search_parameters.first_solution_strategy = (algo_type(i))
-            search_parameters.time_limit.seconds = 30
+            search_parameters.time_limit.seconds = 120
             # Solve the problem.
             assignment = routing.SolveWithParameters(search_parameters)
             #print(assignment)

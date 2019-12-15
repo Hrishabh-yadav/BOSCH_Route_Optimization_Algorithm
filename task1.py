@@ -17,44 +17,7 @@ ch = logging.StreamHandler()
 ch.setLevel(logging.DEBUG)
 logger.addHandler(ch)
 
-def take_input():
 
-    """
-    input file consists lines of:
-    
-    S_No person_name Boarding_point
-
-    """
-    
-    file = open('input.txt', 'r')
-    input_list = file.readlines()
-
-    """
-	Converting to a map of Bus_stop_name:No_of_people 
-
-    """
-    map1 = {}
-    
-
-    for i in input_list:
-
-    	# Convert input to string: "<name> bus stop, Bangalore"
-    	j = i.split()
-    	#print(j)
-    	j = j[2:]
-    	#print(j)
-    	j = " ".join(j)
-    	j+= " bus stop, Bangalore" 
-
-    	#print(j)
-
-    	if j in map1:
-    		map1[j]+= 1
-    	else:
-    		map1[j] = 1
-    file.close()
-
-    return map1
 
 def geocode(address, api_key):
     geo = "https://maps.googleapis.com/maps/api/geocode/json?address={}".format(address)
@@ -103,39 +66,6 @@ def geocode(address, api_key):
     output['response'] = res
     return output
 
-
-if __name__ == "__main__":
-
-	input1 = take_input()
-	#print(input1)
-
-	API_KEY='AIzaSyCbGanFV33ibPvYaQwyxi9e4fEBoXwu_x0'
-
-	f = open('lat_long.txt','w')
-	for i in input1:
-		
-		out = geocode(i, API_KEY)
-
-		#If you just wanna test nd not use up requests, comment the above one and uncomment the below thing:
-		#out ={'latitude': 4.99, 'longitude': 5.88}
-
-		j = i.split()
-		j = j[:-3]
-		j = "+".join(j)
-		#print(j)
-
-		"""
-		write in new file with format: 
-		<name> <latitude> <longitude> <no_of_people>
-		"""
-		j = j + " " + str(out['latitude']) + " " + str(out['longitude']) + " " + str(input1[i]) + "\n"
-		#print(j)
-
-		f.write(j)
-
-	f.close()
-
-
 def make_data( size , output_file_name):
     output = open(output_file_name, "w")
     input = open("busstops.txt",'r')
@@ -154,14 +84,15 @@ def make_data( size , output_file_name):
 
 
 
-def make_distance_matrix (input_data, output_file_name):
+def make_distance_matrix (input_file_name, output_file_name):
+
     output = open(output_file_name, "w")
-    input = open(input_data,'r')
-    input = input.readlines()
+    input1 = open(input_file_name,'r')
+    input1 = input.readlines()
 
     osrm_url = 'http://127.0.0.1:5000/table/v1/driving/'
 
-    for i in input:
+    for i in input1:
         i = i.split()
         osrm_url += str(i[1]) +','+str(i[0])+';'
     osrm_url = osrm_url[:len(osrm_url)-1]
@@ -173,6 +104,45 @@ def make_distance_matrix (input_data, output_file_name):
             output.write(str(values)+ " ")
         output.write("\n")
 
-#make_distance_matrix('test_data4.txt', 'distance_matrix_test_case4.txt')
+    input1.close()
+    output.close()
 
-#make_data(25,'test_data4.txt')
+#make_distance_matrix('test_data3.txt', 'distance_matrix_test_case3.txt')
+#make_data(1500,'test_data3.txt')
+
+def main(input_map, geocode_file, API_KEY):
+
+    """
+    input_map is a map of Bus_stop:Load
+    """
+
+    input1 = input_map
+    #print(input1)
+
+    f = open(geocode_file,'w')
+    f.write("12.7972 77.4239 \n") #Bosch Bidadi office 
+
+    for i in input1:
+        
+        out = geocode(i, API_KEY)
+
+        #If you just wanna test nd not use up requests, comment the above one and uncomment the below thing:
+        #out ={'latitude': 4.99, 'longitude': 5.88}
+
+        j = i.split()
+        j = j[:-3]
+        j = "+".join(j)
+        #print(j)
+
+        """
+        write in new file with format: 
+        <latitude> <longitude> <name> 
+        """
+
+        j = str(out['latitude']) + " " + str(out['longitude']) + " " + j + "\n"
+        #print(j)
+
+        f.write(j)
+
+    f.close()
+
