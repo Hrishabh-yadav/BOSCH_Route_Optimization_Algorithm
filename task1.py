@@ -173,6 +173,6 @@ def make_distance_matrix (input_data, output_file_name):
             output.write(str(values)+ " ")
         output.write("\n")
 
-#make_distance_matrix('test_data3.txt', 'distance_matrix_test_case3.txt')
+#make_distance_matrix('test_data4.txt', 'distance_matrix_test_case4.txt')
 
-#make_data(1500,'test_data3.txt')
+#make_data(25,'test_data4.txt')
