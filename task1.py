@@ -6,7 +6,8 @@ import logging
 import time
 import json
 from random import sample
-
+import geopy.distance
+import time
  
 logger = logging.getLogger("root")
 logger.setLevel(logging.DEBUG)
@@ -27,8 +28,6 @@ def geocode(address, api_key):
         geo = geo + "&key={}".format(api_key)
 
     res = requests.get(geo)
-
-    # Results will be in JSON format - convert to dict using requests functionality
 
     json_data = json.loads(res.text)
 
@@ -87,7 +86,7 @@ def make_data( size , output_file_name):
 def make_distance_matrix (input_file_name, output_file_name):
 
     output = open(output_file_name, "w")
-    input1 = open(input_file_name,'r')
+    input = open(input_file_name,'r')
     input1 = input.readlines()
 
     osrm_url = 'http://127.0.0.1:5000/table/v1/driving/'
@@ -99,50 +98,64 @@ def make_distance_matrix (input_file_name, output_file_name):
     osrm_url+= '?annotations=distance'
     distance_json = requests.get(osrm_url)
     distance_data = json.loads(distance_json.text)
+    dist_mat = []
     for data in distance_data['distances']:
+        dist_m1 = []
         for values in data:
+            dist_m1.append(int(values))
             output.write(str(values)+ " ")
+        dist_mat.append(dist_m1)
         output.write("\n")
 
-    input1.close()
+    input.close()
     output.close()
+    return dist_mat
 
-#make_distance_matrix('test_data3.txt', 'distance_matrix_test_case3.txt')
+#make_distance_matrix('test_data5.txt', 'distance_matrix_test_case3.txt')
 #make_data(1500,'test_data3.txt')
 
-def main(input_map, geocode_file, API_KEY):
+def main(input_file, not_found_file ,geocode_file, API_KEY, Nodes):
 
     """
     input_map is a map of Bus_stop:Load
     """
-
-    input1 = input_map
-    #print(input1)
-
+    input1 = open(input_file, 'r').readlines()
     f = open(geocode_file,'w')
+    f2 = open(not_found_file,'w')
     f.write("12.7972 77.4239 \n") #Bosch Bidadi office 
-
+    node_file = open(Nodes, 'w')
+    node_file.write("Bosch Bidadi\n")
     for i in input1:
+        i = i.split()
+        i = i[2:]
+        name =""
+        for val in i:
+            name+=val
+        i = name
+        name = name + ' bus stop, bangalore'
         
-        out = geocode(i, API_KEY)
-
-        #If you just wanna test nd not use up requests, comment the above one and uncomment the below thing:
-        #out ={'latitude': 4.99, 'longitude': 5.88}
-
-        j = i.split()
-        j = j[:-3]
-        j = "+".join(j)
-        #print(j)
-
+        out = geocode(name, API_KEY)
+        majestic_geocode = (12.9778, 77.5728)
+        geocodes = (float(out['latitude']), float(out['longitude']))
+        time.sleep(0.05)
+        if geopy.distance.vincenty(majestic_geocode, geocodes).km > 150:
+            out = geocode(i, API_KEY)
+            geocodes = (float(out['latitude'], float(out['longitude'])))
+            if geopy.distance.vincenty(majestic_geocode, geocodes).km > 150:
+                f2.write(i+"\n")
+                continue
+            time.sleep(0.05)
+        
         """
         write in new file with format: 
         <latitude> <longitude> <name> 
         """
 
-        j = str(out['latitude']) + " " + str(out['longitude']) + " " + j + "\n"
-        #print(j)
-
+        node_file.write(i+"\n")
+        j = str(out['latitude']) + " " + str(out['longitude']) + "\n"
+        print(j)
         f.write(j)
-
-    f.close()
-
+        f.close()
+        f2.close()
+        node_file.close()
+        
